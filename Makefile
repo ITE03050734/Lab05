@@ -1,3 +1,3 @@
 all:
-	gcc -o socket socket.c
+	gcc -o receive receive.c
 compile:
